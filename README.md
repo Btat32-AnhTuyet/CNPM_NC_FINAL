@@ -9,6 +9,6 @@
 - numpy
 
 ## Hướng dẫn cài đặt và chạy chương trình
-- Clone source code: git clone https://github.com/ktdung0801/CS406.git
+- Clone source code: git clone https://github.com/Btat32-AnhTuyet/CNPM_NC_FINAL.git
 - Cài đặt các thư viện cần thiết
 - Chạy file init.py
